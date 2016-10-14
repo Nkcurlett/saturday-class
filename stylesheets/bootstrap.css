@@ -4620,8 +4620,9 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 .navbar-inverse .navbar-nav > .active > a:focus {
   color: #fff;
   /*black*/
-  background-color: #080808;
+  background-color: #f00;
 }
+/*active part of nav bar*/
 .navbar-inverse .navbar-nav > .disabled > a,
 .navbar-inverse .navbar-nav > .disabled > a:hover,
 .navbar-inverse .navbar-nav > .disabled > a:focus {
