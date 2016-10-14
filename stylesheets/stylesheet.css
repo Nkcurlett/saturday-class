@@ -63,7 +63,7 @@ a {
   }
 
 .jumbotron{
- background: url(images/cover1.jpg);
+ background: url(../images/cover1.jpg);
   background-size: cover;
 }
 
